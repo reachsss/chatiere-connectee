@@ -1,0 +1,16 @@
+           -> 🐱CHATIERE CONNECTEE🐱
+
+🐱 -> Nécessite : 
+- un mur/une porte
+- un chat
+- (un collier qui acceuille une puce)
+
+🐱 -> Caractéristiques :
+- a une interface (possibilité de mettre un pare-feu
+                   + ouvrir/fermer la chattière)
+- caméra IA, pour Face ID de chat, et ouvrir qu'au bon chat
+- selon le sens d'ouverture, savoir si le chat est
+                             dedans ou dehors
+- (avec la puce, n'ouvrir qu'au bon chat)
+- La chatière en 3d aura des oreilles de chat
+

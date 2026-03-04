@@ -5,7 +5,7 @@ Concevoir une chatière connectée permettant de contrôler l'accès d'un animal
 
 ## 🛠️ Technologies utilisées
 - Python ou JavaScript
-- Conception 3D (.x_t)
+- Conception 3D sur OnShape (.x_t)
 - Diagramme fonctionnel / structurel
 - Système embarqué (carte Microbit)
 

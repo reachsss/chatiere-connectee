@@ -9,7 +9,7 @@ Renards, fouines, ratons laveurs, hérissons… Des animaux sauvages peuvent s�
 
 Le problème, c’est qu’une chatière classique ne vérifie pas qui entre.
 
-Notre solution ajoute une couche d’intelligence à la chatière : une caméra analyse l’animal devant l’ouverture et l’IA détermine s’il s’agit bien du chat autorisé.
+Notre solution ajoute une couche d’intelligence à la chatière : une caméra analyse l’animal devant l’ouverture et l’IA détermine s’il s’agit bien du chat autorisé. Si c'est le cas, la chatière est déverrouillée.
 
 
 ## 🛠️ Technologies utilisées

@@ -46,9 +46,9 @@ La chatière a déjà été imprimée en 3D et son impression a été réussie.
 
 La chatière est composée de deux blocs, un bloc avant et un bloc arrière, qui s’assemblent de part et d’autre de la porte après réalisation d’une ouverture adaptée.
 
-Elle intègre un battant mobile personnalisé avec le logo de la chatière, ainsi qu’un loquet de verrouillage actionné par un servomoteur, permettant de bloquer le battant lorsque l’accès n’est pas autorisé.
+Elle intègre un battant mobile personnalisé avec le logo de la chatière, ainsi qu’un loquet de verrouillage actionné par un servomoteur, permettant de bloquer le battant tant que l’accès n’est pas autorisé.
 
-Des logements pour aimants sont intégrés dans la partie inférieure du battant et dans le cadre de la chatière afin d’assurer un meilleur maintien du battant en position fermée et d’améliorer sa résistance au vent.
+Des logements pour aimants sont intégrés dans la partie inférieure du battant et dans le cadre de la chatière afin d’assurer un meilleur maintien du battant en position fermée et d’améliorer sa résistance au vent et autres intempéries.
 
 Un emplacement dédié à la carte micro ainsi qu’un logement pour la caméra intelligente HuskyLens sont directement intégrés à la structure. Un capot de protection recouvre la caméra tout en laissant son champ de vision dégagé, afin de limiter son exposition à la pluie, au vent et aux autres éléments extérieurs.
 

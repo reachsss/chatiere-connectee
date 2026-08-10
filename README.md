@@ -68,4 +68,4 @@ Des passages de câbles sont également prévus dans la structure afin de facili
 
 ## 🚀 Améliorations possibles
 - Application mobile
-- Savoir si le chat est actuellement dehors ou non. (nécessite l'ajout d'un capteur supplémentaire pour voir les mouvements de la chatière)
+- Savoir si le chat est actuellement dehors ou non. (nécessite l'ajout d'un capteur supplémentaire pour voir les mouvements du battant de la chatière)

@@ -1,4 +1,4 @@
-# Chatière connectée 
+# Chatière connectée - Cat Lock 🐈
 
 ## 🎯 Objectif
 Et si la chatière de votre chat fonctionnait comme une vraie porte ?

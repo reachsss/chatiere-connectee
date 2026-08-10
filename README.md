@@ -33,9 +33,9 @@ Le système permet également grâce à des boutons de :
 
 ## 🧩 Partie 3D
 Le fichier a une extension .x_t et a été conçu sur OnShape.
-![3D de la chatiere](media/demo_chatiere_connectee.gif)
+![3D de la chatiere](demo_chatiere_connectee.gif)
 La chatière a déjà été imprimée en 3D et son impression a été réussie.
-![chatiere_imprimee](media/ouverture_chatiere_connectee.gif)
+![chatiere_imprimee](ouverture_chatiere_connectee.gif)
 
 La chatière est composée de deux blocs, un bloc avant et un bloc arrière, qui s’assemblent de part et d’autre de la porte après réalisation d’une ouverture adaptée.
 
@@ -48,7 +48,7 @@ Un emplacement dédié à la carte micro ainsi qu’un logement pour la caméra 
 La structure comprend également un logement pour le servomoteur, directement relié au mécanisme du loquet, ainsi qu’un compartiment intégré permettant d’accueillir trois piles destinées à alimenter l’électronique embarquée.
 
 Des passages de câbles sont également prévus dans la structure afin de faciliter la connexion entre les différents composants électroniques et électromécaniques.
-![chatiere_imprimee_2](media/chatiere_connectee.gif)
+![chatiere_imprimee_2](chatiere_connectee.gif)
 
 ## 📂 Organisation du projet
 - `software/` : programme Python/JavaScript

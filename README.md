@@ -1,4 +1,4 @@
-# chatiere-connectee
+# 3D de la chatière connectée
 Dans ce projet, on retrouve un plan en 3D fait sur OnShape d'une chatière connectée pouvant accueillir un servomoteur, une carte microbit et une carte HuskyLens.
 
 Le fichier a une extension .x_t et a été conçu sur OnShape.

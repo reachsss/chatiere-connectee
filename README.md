@@ -63,7 +63,7 @@ Des passages de câbles sont également prévus dans la structure afin de facili
 
 ## 📂 Organisation du projet
 - `software/` : programme Python/JavaScript
-- `specifications/` : diagrammes et schémas
+- `specifications/` : diagrammes et schémas (à refaire ⏳)
 - `3d/` : modèle 3D de la chatière
 
 ## 🚀 Améliorations possibles
